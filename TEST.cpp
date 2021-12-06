@@ -5,6 +5,6 @@ int main() {
 
 	cout << "OMG";
 	cout << "해냈다.";
-
+	cout << "해내지 못했다.";
 	return 0;
 }
